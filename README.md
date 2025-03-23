@@ -32,3 +32,5 @@ This is a full-stack banking application built using **Next.js** and **TypeScrip
   - ShadCN
   - Chart.js
 
+**Sample app preview** - 
+![App Preview](./banking-app.png)
